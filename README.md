@@ -9,7 +9,9 @@
 <br>
 <br>
 
-Hello ! 👋
+# Pierre Viéville - Développeur web freelance à Soissons. Programmeur indépendant (PHP, Symfony, React.js, Wordpress et Prestashop).
+
+Hello et bienvenue sur ma page Github ! 👋
 
 Je m'appelle Pierre et je suis Développeur Web Full Stack. Depuis 2012, je travaille en tant que Freelance sur des projets web de toutes tailles, aussi bien front-end que backend, au niveau national et international. Mon objectif est de simplifier la vie la vie de mes clients : je créé des sites Internet à leur image et développe des solutions web intuitives pour les aider au mieux dans leur activité.
 
