@@ -36,12 +36,12 @@ Vous voulez en savoir plus sur moi ? [Découvrez mon portfolio.](https://www.pie
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/Immolare">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immolare&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=f3f3f3&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Immolare&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f3f3f3&bg_color=0d1117" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Immolare">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Immolare&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f3f3f3&bg_color=0d1117" alt="Pierre's GitHub Stats" />
 </a>
 
 <br>
