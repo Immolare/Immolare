@@ -20,16 +20,18 @@ Vous voulez en savoir plus sur moi ? [Découvrez mon portfolio.](https://www.pie
 <br>
 <br>
 
-## 📝 Derniers articles du blog
+## 📝 Derniers articles du blog (FR)
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-* https://medium.com/@pierrevieville/vagrant-error-your-vm-has-become-inaccessible-how-to-fix-that-a465868b2aa3
-* https://medium.com/@pierrevieville/apache2-and-virtual-hosts-for-multi-site-management-introduction-and-best-practices-to-a-good-5566629e332f
-* https://medium.com/@pierrevieville/what-is-brave-a-browser-on-the-blockchain-b254127d0ce9
-* https://medium.com/@pierrevieville/how-to-fix-composer-memory-limit-on-vagrant-2329bffa6dcf
-* https://medium.com/@pierrevieville/full-stack-developer-job-description-293c3e9957a1
+* https://developpeur-web.site/intelligence-artificielle-seo-redaction-web/
+* https://developpeur-web.site/creer-site-web-gratuit-soi-meme/
+* https://developpeur-web.site/developpeur-full-stack-cest-quoi/
+* https://developpeur-web.site/creer-tunnel-de-vente-landing-page/
+* https://developpeur-web.site/developpeur-freelance-cest-quoi/
+* https://developpeur-web.site/creation-site-web-saas/
+* https://developpeur-web.site/4-types-developpeurs-web-pour-coder-site-internet/
 <!-- BLOG-POST-LIST:END -->
 
 <br>
