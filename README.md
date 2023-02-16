@@ -1,4 +1,5 @@
-[![Pierre Viéville's GitHub Banner](https://blog.pierrevieville.fr/wp-content/uploads/2022/01/pierrevieville.png)](https://www.pierrevieville.fr)
+[![Pierre Viéville's GitHub Banner](https://user-images.githubusercontent.com/11742929/219418088-256095d0-76fd-47f0-bedf-654c3331a091.png)](https://www.pierrevieville.fr)
+
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pierrevieville)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pierrevieville/)
@@ -20,18 +21,35 @@ Vous voulez en savoir plus sur moi ? [Découvrez mon portfolio.](https://www.pie
 <br>
 <br>
 
+## Plugins Wordpress :
+
+- [Artist Image Generator](https://fr.wordpress.org/plugins/artist-image-generator/)
+
+## Plugins Prestashop :
+
+- [Module Recherche vocale](https://addons.prestashop.com/fr/recherches-filtres/49851-recherche-vocale.html)
+- [Module Simples Produits Liés](https://addons.prestashop.com/fr/produits-virtuels-telechargeables/48601-simples-produits-lies.html)
+
 ## 📝 Derniers articles du blog (FR)
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-* https://developpeur-web.site/intelligence-artificielle-seo-redaction-web/
-* https://developpeur-web.site/creer-site-web-gratuit-soi-meme/
-* https://developpeur-web.site/developpeur-full-stack-cest-quoi/
-* https://developpeur-web.site/creer-tunnel-de-vente-landing-page/
-* https://developpeur-web.site/developpeur-freelance-cest-quoi/
-* https://developpeur-web.site/creation-site-web-saas/
-* https://developpeur-web.site/4-types-developpeurs-web-pour-coder-site-internet/
+- (https://developpeur-web.site/4-types-developpeurs-web-pour-coder-site-internet/)
+- (https://developpeur-web.site/creation-site-web-saas/)
+- (https://developpeur-web.site/developpeur-freelance-cest-quoi/)
+- (https://developpeur-web.site/creer-tunnel-de-vente-landing-page/)
+- (https://developpeur-web.site/developpeur-full-stack-cest-quoi/)
+- (https://developpeur-web.site/creer-site-web-gratuit-soi-meme/)
+- (https://developpeur-web.site/intelligence-artificielle-seo-redaction-web/)
+- (https://developpeur-web.site/fix-composer-memory-limit-sur-vagrant/)
+- (https://developpeur-web.site/optimisation-vitesse-chargement-sites-web-pme/)
+- (https://developpeur-web.site/optimisation-referencement-local-petite-entreprise/)
+- (https://developpeur-web.site/clavier-mecanique-developpement-code-guide-achat/)
+- (https://developpeur-web.site/optimisation-seo-site-web-wordpress/)
+- (https://developpeur-web.site/artist-image-generator-wordpress/)
+- (https://developpeur-web.site/polices-caracteres-personnalisees-experience-utilisateur/)
+- (https://developpeur-web.site/optimiser-processus-developpement-web-freelances/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
