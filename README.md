@@ -1,4 +1,5 @@
-[![Pierre Viéville's GitHub Banner](https://user-images.githubusercontent.com/11742929/219418088-256095d0-76fd-47f0-bedf-654c3331a091.png)](https://www.pierrevieville.fr)
+[![Pierre Viéville's GitHub Banner](https://github.com/Immolare/Immolare/assets/11742929/c774562b-25cc-4fed-87a2-cf066ec779d2
+)](https://www.pierrevieville.fr)
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pierrevieville)
@@ -17,6 +18,11 @@ Hello et bienvenue sur ma page Github ! 👋
 Je m'appelle Pierre et je suis Développeur Web Full Stack. Depuis 2012, je travaille en tant que Freelance sur des projets web de toutes tailles, aussi bien front-end que backend, au niveau national et international. Mon objectif est de simplifier la vie la vie de mes clients : je créé des sites Internet à leur image et développe des solutions web intuitives pour les aider au mieux dans leur activité.
 
 Vous voulez en savoir plus sur moi ? [Découvrez mon portfolio.](https://www.pierrevieville.fr/)
+
+Ou regardez directement la vidéo de présentation (Youtube) :
+
+[![Watch the video](https://img.youtube.com/vi/pgNEeI3Y_Jw/0.jpg)](https://youtu.be/pgNEeI3Y_Jw)
+
 
 <br>
 <br>
